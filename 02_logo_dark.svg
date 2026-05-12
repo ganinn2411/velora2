@@ -1,0 +1,27 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#111111"/>
+  
+  <!-- VR Monogram -->
+  <g transform="translate(600, 320)" text-anchor="middle">
+    <path d="M-90,−160 L-40,−40 L10,−160" fill="none" stroke="#F0EDE8" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
+    <path d="M10,−160 L10,−40" fill="none" stroke="#F0EDE8" stroke-width="7" stroke-linecap="square"/>
+    <path d="M10,−160 L50,−160 Q75,−160 75,−130 Q75,−100 50,−100 L10,−100" fill="none" stroke="#F0EDE8" stroke-width="7" stroke-linecap="square" stroke-linejoin="round"/>
+    <path d="M50,−100 L75,−40" fill="none" stroke="#F0EDE8" stroke-width="7" stroke-linecap="square"/>
+  </g>
+
+  <text x="600" y="440" 
+        font-family="'Cormorant Garamond', 'Playfair Display', Georgia, serif" 
+        font-size="108" 
+        font-weight="300"
+        letter-spacing="28"
+        fill="#F0EDE8" 
+        text-anchor="middle">VELORA</text>
+
+  <text x="600" y="510" 
+        font-family="Georgia, serif" 
+        font-size="16" 
+        font-weight="400"
+        letter-spacing="10"
+        fill="#F0EDE8" 
+        text-anchor="middle">MODERN . MINIMAL . TIMELESS .</text>
+</svg>
